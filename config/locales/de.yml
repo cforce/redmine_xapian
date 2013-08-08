@@ -40,7 +40,7 @@ de:
           one:   "Zeige einen Treffer an"
           other: "Zeige %{count} Treffer an"
         single_page_html:
-          zero:  "No results found"
+          zero:  "Keine Treffer gefunden"
           one:   "Zeige <b>1</b> Treffer"
           other: "Zeige <b>alle&nbsp;%{count}</b> Treffer"
         multi_page: "Zeige Treffer %{from} - %{to} von %{count} insgesamt"
